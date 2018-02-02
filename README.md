@@ -22,7 +22,9 @@ Brew     | BREW
 The purpose of this paper is to explain how the **Brew** platform through its use of blockchain and related 
 technologies will address the many challenges faced by the craft beer movement. 
 
-The platform will provide a [DApp](https://craftbeer.org.au/#brew) so that craft beer enthusiasts can discover and share their favourite beers, 
+The platform will provide a
+  <a href="https://craftbeer.org.au/#brew" target="_blank">DApp</a>
+so that craft beer enthusiasts can discover and share their favourite beers, 
 breweries, craft beer venues and craft beer events. Brew's recognition and reward systems will incentivise community 
 members and inspire new participants.
 
