@@ -20,13 +20,13 @@ Brew     | BREW
 ### Introduction
 
 The purpose of this paper is to explain how the **Brew** platform through its use of blockchain and related 
-technologies will address the many challenges faced by the craft beer movement. 
+technologies will address the challenges faced by the craft beer movement. 
 
 The platform will provide a
   <a href="https://craftbeer.org.au/#brew" target="_blank">DApp</a>
-so that craft beer enthusiasts can discover and share their favourite beers, 
-breweries, craft beer venues and craft beer events. Brew's recognition and reward systems will incentivise community 
-members and inspire new participants.
+so that craft beer enthusiasts can discover and share their favourite craft beers, craft breweries, craft beer venues 
+and craft beer events. Brew's recognition and reward systems will incentivise community members and inspire new 
+participants.
 
 Developers will be encouraged to use the platform's open-source APIs and SDKs to create innovative (disruptive and 
 unique) products and services. 
