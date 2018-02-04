@@ -37,6 +37,7 @@ To many, blockchain is a new concept but to others blockchain is an enabler help
 realise their belief in transparency, trust, and decentralisation.
 
 We propose the BREW token as a means of exchange to be used by participants throughout the craft beer ecosystem.
+
 The BREW platform will provide:
 
 - Craft Beer Enthusiasts: with the ability to discover and share their favourite craft beers, craft breweries, 
