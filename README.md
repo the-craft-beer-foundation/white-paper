@@ -45,4 +45,14 @@ The BREW platform will provide:
 - Craft Breweries: increased revenue, information about trending beers, and a share of tokens.
 - Craft Venues: improved customer acquisition, and a share of tokens
 
+### Introduction
 
+**Brew** is a decentralized blockchain platform regulated by smart contracts. The platform seeks to promote and 
+support the craft beer movement and its emphasis on quality, flavour and brewing technique.
+
+The platform has its own ERC20 token which will be traded on the Ethereum, independently of Ether but compatible with 
+any wallet, other contract or exchange also using this standard.
+ 
+Currency | Symbol
+-------- | ------
+Brew     | BREW
