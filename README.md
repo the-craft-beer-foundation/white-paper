@@ -14,14 +14,14 @@
 <h3>Abstract</h3>
 </p>
 
-The rules governing access to taps in pubs, clubs and other venues are broken. 
+The rules governing access to beer taps in pubs, clubs and other venues are broken. 
 
 Major brewers use supply contracts that include exclusivity provisions and volume requirements to lock out craft brewers.
 
 Some contracts require venues to dedicate over 80% of beer taps to their big name brands in exchange for rebates,
 infrastructure investment and refurbishment loans. And some international conglomerates flex their brewing biceps by 
 marketing their own craft-like beers. These beers, produced by giant corporations but marketed as independent brews, 
-are known as 'crafty beers' for their sneaky, misleading labelling.
+are known as 'crafty beers' for their misleading labelling.
 
 Big brewers dominate the craft beer market!
 
