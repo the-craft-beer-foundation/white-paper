@@ -4,11 +4,10 @@
 
 <p align="center">
 <h2>The Craft Beer Foundation</h2>
-DRAFT
 </p>
 
 <p align="center">
-DRAFT
+-- DRAFT --
 </p>
 
 <p align="center">
