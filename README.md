@@ -33,6 +33,14 @@ conglomerates? How do we stop misleading labelling and marketing? What can we do
 
 ### Value Proposition
 
-We propose the BREW token as a means of exchange to be used by the craft beer movement to help build communities and to
-realise participants belief in transparency, trust, and decentralisation.
+We propose the BREW token as a means of exchange to be used by participants throughout the craft beer ecosystem.
+The BREW platform will provide:
+
+- Craft Beer Enthusiasts: with the ability to discover and share their favourite craft beers, craft breweries, 
+  craft beer venues and craft beer events and a share of tokens 
+- Craft Breweries:  increased revenue, information about trending beers, ... and a share of tokens
+- Craft Venues: improved customer acquisition, ..., and a share of tokens
+
+And as communities and blockchains grow, there are more participants devoting time, resources, and capital to the
+network, making it more valuable with every user that joins.
 
