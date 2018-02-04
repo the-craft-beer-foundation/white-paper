@@ -14,16 +14,17 @@ The rules governing access to taps in pubs, clubs and other venues are broken. M
 include exclusivity provisions and volume requirements to lock out craft brewers.
 
 Some contracts require venues to dedicate over 80% of beer taps to their big name brands in exchange for rebates,
-infrastructure investment and refurbishment loans.
+infrastructure investment and refurbishment loans. And some international conglomerates flex their brewing biceps by 
+marketing their own craft-like beers. These beers, produced by giant corporations but marketed as independent brews, 
+are known as 'crafty beers' for their sneaky, misleading labelling.
 
-And some international conglomerates flex their brewing biceps by marketing their own craft-like beers.
-These beers, produced by giant corporations but marketed as independent brews, are known as 'crafty beers' for their
-sneaky, misleading labelling.
+Big brewers dominate the craft beer market!
 
-Big brewers dominate the craft beer market.
+How do we stop craft brewers from being guzzled up by international conglomerates? 
 
-How do we stop craft brewers from being guzzled up by international conglomerates? How do we stop misleading labelling
-and marketing? What can we do to support craft brewers?
+How do we stop misleading labelling and marketing? 
+
+What can we do to support craft brewers?
 
 ## Table of Contents
 
