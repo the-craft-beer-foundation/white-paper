@@ -1,13 +1,13 @@
 <p align="center">
+-- DRAFT --
+</p>
+
+<p align="center">
   <h1>Brew Token</h1>
 </p>
 
 <p align="center">
 <h2>The Craft Beer Foundation</h2>
-</p>
-
-<p align="center">
--- DRAFT --
 </p>
 
 <p align="center">
