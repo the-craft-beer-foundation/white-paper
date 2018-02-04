@@ -23,21 +23,16 @@ infrastructure investment and refurbishment loans. And some international conglo
 marketing their own craft-like beers. These beers, produced by giant corporations but marketed as independent brews, 
 are known as 'crafty beers' for their misleading labelling.
 
-Big brewers dominate the craft beer market!
-
-How do we stop craft brewers from being guzzled up by international conglomerates? 
-
-How do we stop misleading labelling and marketing? 
-
-What can we do to support craft brewers?
+Big brewers dominate the craft beer market. How do we stop craft brewers from being guzzled up by international 
+conglomerates? How do we stop misleading labelling and marketing? What can we do to support craft brewers?
 
 ## Table of Contents
 
 * [Value Proposition](#value-proposition)
 * [Introduction](#introduction)
 
-### Introduction
+### Value Proposition
 
-We propose the BREW token as a means of exchange to used by the craft beer movement to help build communities and to
+We propose the BREW token as a means of exchange to be used by the craft beer movement to help build communities and to
 realise participants belief in transparency, trust, and decentralisation.
 
