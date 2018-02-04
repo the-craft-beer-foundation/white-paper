@@ -41,7 +41,7 @@ We propose the BREW token as a means of exchange to be used by participants thro
 The BREW platform will provide:
 
 - Craft Beer Enthusiasts: with the ability to discover and share their favourite craft beers, craft breweries, 
-  craft beer venues and craft beer events as well as a share of tokens via Brew's recognition and reward systems.
+  craft beer venues and craft beer events as well as a share of tokens via the platform's recognition and reward systems.
 - Craft Breweries: increased revenue, information about trending beers, and a share of tokens.
 - Craft Venues: improved customer acquisition, and a share of tokens
 
