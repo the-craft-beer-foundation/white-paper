@@ -21,7 +21,7 @@ Major brewers use supply contracts that include exclusivity provisions and volum
 Some contracts require venues to dedicate over 80% of beer taps to their big name brands in exchange for rebates,
 infrastructure investment and refurbishment loans. And some international conglomerates flex their brewing biceps by 
 marketing their own craft-like beers. These beers, produced by giant corporations but marketed as independent brews, 
-are known as 'crafty beers' for their misleading labelling.
+are known as 'crafty beers' due to their misleading labelling.
 
 Big brewers dominate the craft beer market. How do we stop craft brewers from being guzzled up by international 
 conglomerates? How do we stop misleading labelling and marketing? What can we do to support craft brewers?
