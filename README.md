@@ -30,6 +30,7 @@ conglomerates? How do we stop misleading labelling and marketing? What can we do
 
 * [Value Proposition](#value-proposition)
 * [Introduction](#introduction)
+* [A New Deal](#a-new-deal)
 
 ### Value Proposition
 
@@ -42,18 +43,32 @@ The BREW platform will provide:
 
 - <strong>Craft Beer Enthusiasts:</strong> with the ability to discover and share their favourite craft beers, craft 
   breweries, venues and events as well as a share of tokens via the platform's recognition and reward systems.
-- <strong>Craft Breweries:</strong> increased revenue, information about trending beers, and a share of tokens.
+- <strong>Craft Beer Breweries:</strong> increased revenue, information about trending beers, and a share of tokens.
 - <strong>Venues and Events:</strong> improved customer acquisition, and a share of tokens.
 
 ### Introduction
 
-**Brew** is a decentralised blockchain platform regulated by smart contracts.
+The promise of the craft beer movement is an emphasis on quality, flavour and brewing technique.
 
-The platform has its own ERC20 token which will be traded on the Ethereum, independently of Ether but compatible with 
-any wallet, other contract or exchange also using this standard.
- 
-Currency | Symbol
--------- | ------
-Brew     | BREW
+And, in an efficient marketplace excellence should be rewarded. The best craft beer and the best craft brewers should 
+receive the attention and funding they deserve.
 
-...
+This paper will review the current state of the craft beer marketplace and the predicament of craft beer breweries.
+It will outline a new solution that creates a transparent and efficient Blockchain-based marketplace for craft beer 
+enthusiasts, craft beer breweries, venues and events, accurately valuing and rewarding their participation in the 
+craft beer ecosytem.
+
+### A New Deal
+
+To address the challenges faced by craft brewers requires a unit of exchange and a new platform. The first phase
+involves the introduction of the Brew Token. The next phase involves the development and roll-out of the Brew platform.
+
+Token Technology
+
+The BREW token, a token based on Ethereum, is an important element of a new digital community.
+Ethereum is an open source, blockchain-based, distributed computing platform oriented towards smart contracts.
+
+Effectively, Ethereum is a distributed virtual machine that allows end users to construct smart contracts for
+transactions. Smart contracts are stateful applications stored in the Ethereum blockchain. These contracts are
+cryptographically secure and can verify or enforce performance of the contract. Token contracts are a standard feature
+of the Ethereum ecosystem.
