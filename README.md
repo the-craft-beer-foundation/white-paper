@@ -55,7 +55,7 @@ And, in an efficient marketplace excellence should be rewarded. The best craft b
 receive the attention and funding they deserve.
 
 This paper will review the current state of the craft beer marketplace and the predicament of craft beer breweries.
-It will outline a new solution that creates a transparent and efficient Blockchain-based marketplace for craft beer 
+It will outline a new solution that creates a transparent and efficient Blockchain-based community for craft beer 
 enthusiasts, craft beer breweries, venues and events, accurately valuing and rewarding their participation in the 
 craft beer ecosytem.
 
