@@ -42,10 +42,11 @@ We propose the Brew token as a means of exchange to be used by participants thro
 
 The Brew platform will provide:
 
-- <strong>Craft Beer Enthusiasts:</strong> with the ability to discover and share their favourite craft beers, craft 
-  breweries, venues and events as well as a share of tokens via the platform's recognition and reward systems.
-- <strong>Craft Breweries:</strong> increased revenue, information about trending craft beers, and a share of tokens.
-- <strong>Venues and Events:</strong> improved customer acquisition, and a share of tokens.
+- <strong>Craft Beer Enthusiasts:</strong> with the ability to learn where and how a craft beer was produced and to 
+  share their favourite craft beers, craft breweries, venues and events and a share of tokens via the platform's 
+  recognition and reward system.
+- <strong>Craft Breweries:</strong> increased revenue, greater customer advocacy, analytics, and a share of tokens.
+- <strong>Venues and Events:</strong> increased customer attention, improved customer acquisition, and a share of tokens.
 
 ### Introduction
 
@@ -75,3 +76,17 @@ cryptographically secure and can verify or enforce performance of the contract. 
 of the Ethereum ecosystem.
 
 ...
+
+## References
+
+- [Tokenomics: A business guide to token usage, utility and value](http://web.archive.org/web/20170610165225/http://startupmanagement.org/2017/06/10/tokenomics-a-business-guide-to-token-usage-utility-and-value/)
+- [An operational framework for decentralized autonomous organizations](http://web.archive.org/web/20160110194852/http://startupmanagement.org:80/2015/02/04/an-operational-framework-for-decentralized-autonomous-organizations/)
+- [Fed up with Big Beer’s incursion, independent craft breweries push back](https://www.cnbc.com/2018/02/03/fed-up-with-big-beers-incursion-independent-craft-breweries-push-back.html)
+- [Why Australian-owned beers are not on tap](https://www.choice.com.au/food-and-drink/drinks/alcohol/articles/why-australian-owned-beers-are-not-on-tap)
+- [Craft Beer Production - Australia Market Research Repory](http://www.ibisworld.com.au/industry-trends/specialised-market-research-reports/consumer-goods-services/craft-beer-production.html)
+- [Brewers thirsty for change as craft concerns come to a head](http://www.abc.net.au/radionational/programs/blueprintforliving/craft-beer-industry-concerns-come-to-a-head/6512740)
+- [The Big Issue: Branding Revisited](https://craftypint.com/news/1596/The_Big_Issue_Branding_Revisited)
+- [Craft Beer Branding Guide](https://craftbeerbrandingguide.com/)
+- [The End of a Cult](https://craftypint.com/news/1541/The_End_Of_A_Cult)
+
+
