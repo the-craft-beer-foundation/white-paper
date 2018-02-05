@@ -79,8 +79,8 @@ of the Ethereum ecosystem.
 
 ## References
 
-- [Tokenomics: A business guide to token usage, utility and value](http://web.archive.org/web/20170610165225/http://startupmanagement.org/2017/06/10/tokenomics-a-business-guide-to-token-usage-utility-and-value/)
-- [An operational framework for decentralized autonomous organizations](http://web.archive.org/web/20160110194852/http://startupmanagement.org:80/2015/02/04/an-operational-framework-for-decentralized-autonomous-organizations/)
+- [Tokenomics – A Business Guide to Token Usage, Utility and Value](http://web.archive.org/web/20170610165225/http://startupmanagement.org/2017/06/10/tokenomics-a-business-guide-to-token-usage-utility-and-value/)
+- [An Operational Framework for Decentralized Autonomous Organizations](http://web.archive.org/web/20160110194852/http://startupmanagement.org:80/2015/02/04/an-operational-framework-for-decentralized-autonomous-organizations/)
 - [Fed up with Big Beer’s incursion, independent craft breweries push back](https://www.cnbc.com/2018/02/03/fed-up-with-big-beers-incursion-independent-craft-breweries-push-back.html)
 - [Why Australian-owned beers are not on tap](https://www.choice.com.au/food-and-drink/drinks/alcohol/articles/why-australian-owned-beers-are-not-on-tap)
 - [Craft Beer Production - Australia Market Research Repory](http://www.ibisworld.com.au/industry-trends/specialised-market-research-reports/consumer-goods-services/craft-beer-production.html)
