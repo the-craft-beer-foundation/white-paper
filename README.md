@@ -28,9 +28,10 @@ conglomerates? How do we stop misleading labelling and marketing? What can we do
 
 ## Table of Contents
 
-* [Value Proposition](#value-proposition)
-* [Introduction](#introduction)
-* [A New Deal](#a-new-deal)
+- [Value Proposition](#value-proposition)
+- [Introduction](#introduction)
+- [A New Deal](#a-new-deal)
+  - [Token Technology](#token-technology)
 
 ### Value Proposition
 
@@ -63,7 +64,7 @@ craft beer ecosytem.
 To address the challenges faced by craft brewers requires a unit of exchange and a new platform. The first phase
 involves the introduction of the Brew Token. The next phase involves the development and roll-out of the Brew platform.
 
-Token Technology
+#### Token Technology
 
 The BREW token, a token based on Ethereum, is an important element of a new digital community.
 Ethereum is an open source, blockchain-based, distributed computing platform oriented towards smart contracts.
@@ -72,3 +73,5 @@ Effectively, Ethereum is a distributed virtual machine that allows end users to 
 transactions. Smart contracts are stateful applications stored in the Ethereum blockchain. These contracts are
 cryptographically secure and can verify or enforce performance of the contract. Token contracts are a standard feature
 of the Ethereum ecosystem.
+
+...
