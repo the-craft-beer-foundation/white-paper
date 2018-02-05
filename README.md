@@ -61,7 +61,7 @@ craft beer ecosytem.
 
 ### A New Deal
 
-To address the challenges faced by craft beer brewers requires a unit of exchange and a new platform. The first phase
+To address the challenges faced by craft breweries requires a unit of exchange and a new platform. The first phase
 involves the introduction of the Brew Token. The next phase involves the development and roll-out of the Brew platform.
 
 #### Token Technology
