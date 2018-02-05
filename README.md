@@ -44,24 +44,24 @@ The Brew platform will provide:
 
 - <strong>Craft Beer Enthusiasts:</strong> with the ability to discover and share their favourite craft beers, craft 
   breweries, venues and events as well as a share of tokens via the platform's recognition and reward systems.
-- <strong>Craft Beer Breweries:</strong> increased revenue, information about trending beers, and a share of tokens.
+- <strong>Craft Breweries:</strong> increased revenue, information about trending craft beers, and a share of tokens.
 - <strong>Venues and Events:</strong> improved customer acquisition, and a share of tokens.
 
 ### Introduction
 
 The promise of the craft beer movement is an emphasis on quality, flavour and brewing technique.
 
-And, in an efficient marketplace excellence should be rewarded. The best craft beer and the best craft brewers should 
-receive the attention and funding they deserve.
+And, in an efficient marketplace excellence should be rewarded. The best craft beer and the best craft breweries 
+should receive the attention and funding they deserve.
 
-This paper will review the current state of the craft beer marketplace and the predicament of craft beer breweries.
+This paper will review the current state of the craft beer marketplace and the predicament of craft breweries.
 It will outline a new solution that creates a transparent and efficient Blockchain-based community for craft beer 
-enthusiasts, craft beer breweries, venues and events, accurately valuing and rewarding their participation in the 
+enthusiasts, craft breweries, venues and events, accurately valuing and rewarding their participation in the 
 craft beer ecosytem.
 
 ### A New Deal
 
-To address the challenges faced by craft brewers requires a unit of exchange and a new platform. The first phase
+To address the challenges faced by craft beer brewers requires a unit of exchange and a new platform. The first phase
 involves the introduction of the Brew Token. The next phase involves the development and roll-out of the Brew platform.
 
 #### Token Technology
