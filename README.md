@@ -38,9 +38,9 @@ conglomerates? How do we stop misleading labelling and marketing? What can we do
 To many, blockchain is a new concept but to others blockchain is an enabler helping them to build communities and to
 realise their belief in transparency, trust, and decentralisation.
 
-We propose the BREW token as a means of exchange to be used by participants throughout the craft beer ecosystem.
+We propose the Brew token as a means of exchange to be used by participants throughout the craft beer ecosystem.
 
-The BREW platform will provide:
+The Brew platform will provide:
 
 - <strong>Craft Beer Enthusiasts:</strong> with the ability to discover and share their favourite craft beers, craft 
   breweries, venues and events as well as a share of tokens via the platform's recognition and reward systems.
@@ -66,7 +66,7 @@ involves the introduction of the Brew Token. The next phase involves the develop
 
 #### Token Technology
 
-The BREW token, a token based on Ethereum, is an important element of a new digital community.
+The Brew token, a token based on Ethereum, is an important element of a new digital community.
 Ethereum is an open source, blockchain-based, distributed computing platform oriented towards smart contracts.
 
 Effectively, Ethereum is a distributed virtual machine that allows end users to construct smart contracts for
