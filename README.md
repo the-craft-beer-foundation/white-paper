@@ -23,14 +23,22 @@ rebates, infrastructure investment and refurbishment loans.
 And some international conglomerates market their own craft-like beers. These beers, produced by giant corporations but
 marketed as independent brews, are known as 'crafty beers' due to their misleading labelling.
 
-Big brewers dominate the craft beer market. How do we stop craft breweries from being guzzled up by international 
-conglomerates? How do we stop misleading labelling and marketing? What can we do to support craft brewers?
+Big brewers dominate the craft beer market, but:
+
+<p>
+  <q cite="https://www.goodreads.com/quotes/48-three-things-in-human-life-are-important-the-first-is">Three
+  there is a strong preference for craft beer from independently owned breweries</q> - The 2017 Australian Craft Beer Survey 
+</p>
+ 
+How do we stop craft breweries from being guzzled up by international conglomerates? 
+How do we stop misleading labelling and marketing? 
+What can we do to support craft brewers?
 
 ## Table of Contents
 
 - [Value Proposition](#value-proposition)
 - [Introduction](#introduction)
-- [A New Deal](#a-new-deal)
+- [A Better Deal](#a-new-deal)
   - [Token Technology](#token-technology)
 
 ### Value Proposition
@@ -44,7 +52,7 @@ The Brew platform will provide:
 
 - <strong>Craft Beer Enthusiasts:</strong> with the ability to learn where and how a craft beer was produced, to 
   share their favourite craft beers, craft breweries, venues and events, and a share of tokens via the platform's 
-  recognition and reward system.
+  participation, recognition and reward system.
 - <strong>Craft Breweries:</strong> increased revenue, greater customer advocacy, analytics, and a share of tokens.
 - <strong>Venues and Events:</strong> increased customer attention, improved customer acquisition, and a share of tokens.
 
@@ -60,7 +68,7 @@ It will outline a new solution that creates a transparent and efficient Blockcha
 enthusiasts, craft breweries, venues and events, accurately valuing and rewarding their participation in the 
 craft beer ecosytem.
 
-### A New Deal
+### A Better Deal
 
 To address the challenges faced by craft breweries requires a unit of exchange and a new platform. The first phase
 involves the introduction of the Brew Token. The next phase involves the development and roll-out of the Brew platform.
@@ -85,8 +93,6 @@ of the Ethereum ecosystem.
 - [Why Australian-owned beers are not on tap](https://www.choice.com.au/food-and-drink/drinks/alcohol/articles/why-australian-owned-beers-are-not-on-tap)
 - [Craft Beer Production - Australia Market Research Repory](http://www.ibisworld.com.au/industry-trends/specialised-market-research-reports/consumer-goods-services/craft-beer-production.html)
 - [Brewers thirsty for change as craft concerns come to a head](http://www.abc.net.au/radionational/programs/blueprintforliving/craft-beer-industry-concerns-come-to-a-head/6512740)
+- [2017 Australian Craft Beer Survey Results](https://www.beercartel.com.au/blog/2017-australian-craft-beer-survey-results/)
 - [The Big Issue: Branding Revisited](https://craftypint.com/news/1596/The_Big_Issue_Branding_Revisited)
 - [Craft Beer Branding Guide](https://craftbeerbrandingguide.com/)
-- [The End of a Cult](https://craftypint.com/news/1541/The_End_Of_A_Cult)
-
-
