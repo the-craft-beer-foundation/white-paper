@@ -24,7 +24,7 @@ And some international conglomerates market their own craft-like beers. These be
 marketed as independent brews, are known as 'crafty beers' due to their misleading labelling.
 
 Big brewers dominate the craft beer market, but "there is a strong preference for craft beer from independently 
-owned breweries." [1](#citations)
+owned breweries." [[1](#citations)]
  
 How do we stop craft breweries from being guzzled up by international conglomerates? 
 How do we stop misleading labelling and marketing? 
