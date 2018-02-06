@@ -79,20 +79,22 @@ transactions. Smart contracts are stateful applications stored in the Ethereum b
 cryptographically secure and can verify or enforce performance of the contract. Token contracts are a standard feature
 of the Ethereum ecosystem.
 
-...
+
+
+
 
 ## Citations
 
 [1] [2017 Australian Craft Beer Survey Results](https://www.beercartel.com.au/blog/2017-australian-craft-beer-survey-results/)
+[2] [The Quest for Authenticity in Consumption: Consumers’ Purposive Choice of Authentic Cues to Shape Experienced Outcomes](https://academic.oup.com/jcr/article-abstract/36/5/838/1790161?redirectedFrom=fulltext)
+[3] [Creating and retaining authenticity among craft breweries](https://open.bu.edu/handle/2144/15673)
 
-## References
+## Reference Material
 
 - [Tokenomics – A Business Guide to Token Usage, Utility and Value](http://web.archive.org/web/20170610165225/http://startupmanagement.org/2017/06/10/tokenomics-a-business-guide-to-token-usage-utility-and-value/)
 - [An Operational Framework for Decentralized Autonomous Organizations](http://web.archive.org/web/20160110194852/http://startupmanagement.org:80/2015/02/04/an-operational-framework-for-decentralized-autonomous-organizations/)
-- [Fed up with Big Beer’s incursion, independent craft breweries push back](https://www.cnbc.com/2018/02/03/fed-up-with-big-beers-incursion-independent-craft-breweries-push-back.html)
 - [Why Australian-owned beers are not on tap](https://www.choice.com.au/food-and-drink/drinks/alcohol/articles/why-australian-owned-beers-are-not-on-tap)
 - [Craft Beer Production - Australia Market Research Repory](http://www.ibisworld.com.au/industry-trends/specialised-market-research-reports/consumer-goods-services/craft-beer-production.html)
 - [Brewers thirsty for change as craft concerns come to a head](http://www.abc.net.au/radionational/programs/blueprintforliving/craft-beer-industry-concerns-come-to-a-head/6512740)
-- [2017 Australian Craft Beer Survey Results](https://www.beercartel.com.au/blog/2017-australian-craft-beer-survey-results/)
 - [The Big Issue: Branding Revisited](https://craftypint.com/news/1596/The_Big_Issue_Branding_Revisited)
 - [Craft Beer Branding Guide](https://craftbeerbrandingguide.com/)
