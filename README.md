@@ -54,7 +54,7 @@ The Brew platform will provide:
 
 - <strong>Craft Beer Enthusiasts:</strong> with the ability to learn where and how a craft beer was produced, to 
   share their favourite craft beers, craft breweries, venues and events, and a share of tokens via the platform's 
-  participation, recognition and reward system.
+  recognition and reward system.
 - <strong>Craft Breweries:</strong> increased revenue, greater customer advocacy, analytics, and a share of tokens.
 - <strong>Venues and Events:</strong> increased customer attention, improved customer acquisition, and a share of tokens.
 
