@@ -23,12 +23,8 @@ rebates, infrastructure investment and refurbishment loans.
 And some international conglomerates market their own craft-like beers. These beers, produced by giant corporations but
 marketed as independent brews, are known as 'crafty beers' due to their misleading labelling.
 
-Big brewers dominate the craft beer market, but:
-
-<p>
-  <q cite="https://www.goodreads.com/quotes/48-three-things-in-human-life-are-important-the-first-is">Three
-  there is a strong preference for craft beer from independently owned breweries</q> - The 2017 Australian Craft Beer Survey 
-</p>
+Big brewers dominate the craft beer market, but "there is a strong preference for craft beer from independently 
+owned breweries." [1](#citations)
  
 How do we stop craft breweries from being guzzled up by international conglomerates? 
 How do we stop misleading labelling and marketing? 
@@ -84,6 +80,10 @@ cryptographically secure and can verify or enforce performance of the contract. 
 of the Ethereum ecosystem.
 
 ...
+
+## Citations
+
+[1] [2017 Australian Craft Beer Survey Results](https://www.beercartel.com.au/blog/2017-australian-craft-beer-survey-results/)
 
 ## References
 
