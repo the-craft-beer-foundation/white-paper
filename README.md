@@ -21,7 +21,7 @@ Major brewers use supply contracts that include exclusivity provisions and volum
 brewers. Some contracts require venues to dedicate over 80% of beer taps to their big name brands in exchange for
 rebates, infrastructure investment and refurbishment loans.
 
-And large foreign-owned multinational conglomerates market their own craft-like beers seeking to co-opt craft breweries
+And large foreign-owned multinational corporations market their own craft-like beers seeking to co-opt craft breweries
 authenticity and craftiness. But craft beer drinkers "want to know who owns the beer they’re drinking" and "there is a
 strong preference for craft beer from independently owned breweries." [[1](#citations)] 
 
