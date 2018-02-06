@@ -30,9 +30,10 @@ We see the growing taste for beer from small-scale craft breweries as a "consume
 Craft beer enthusiasts don't want to be fooled into drinking a "fake version of a product" [[3](#citations)] and there 
 is "strong interest for a seal to identify (that) a beer is from an independent brewery." [[1](#citations)]
 
-How do we stop craft breweries from being guzzled up by foreign-owned multinational corporations? 
-How do we stop misleading labelling and marketing? 
-What can we do to support craft brewers?
+Craft breweries are losing revenue, venues aren't capturing consumers attention and craft beer enthusiasts feel 
+increasingly misled. 
+
+The solution is a transparent and efficient Blockchain-based platform for the craft beer ecosystem.
 
 ## Table of Contents
 
