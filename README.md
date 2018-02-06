@@ -90,7 +90,7 @@ of the Ethereum ecosystem.
 
 [1] [2017 Australian Craft Beer Survey Results](https://www.beercartel.com.au/blog/2017-australian-craft-beer-survey-results/)
 
-[2] [The Quest for Authenticity in Consumption: Consumers’ Purposive Choice of Authentic Cues to Shape Experienced Outcomes](https://academic.oup.com/jcr/article-abstract/36/5/838/1790161?redirectedFrom=fulltext)
+[2] [The Quest for Authenticity in Consumption](https://academic.oup.com/jcr/article-abstract/36/5/838/1790161?redirectedFrom=fulltext)
 
 [3] [Creating and retaining authenticity among craft breweries](https://open.bu.edu/handle/2144/15673)
 
