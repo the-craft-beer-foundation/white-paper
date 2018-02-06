@@ -23,8 +23,9 @@ rebates, infrastructure investment and refurbishment loans.
 
 And large foreign-owned multinational conglomerates market their own craft-like beers seeking to co-opt craft breweries
 authenticity and craftiness. But craft beer drinkers "want to know who owns the beer they’re drinking" and "there is a
-strong preference for craft beer from independently owned breweries." [[1](#citations)] We see the growing taste for
-beer from small-scale craft breweries as a "consumer-based social movement." [[2](#citations)]
+strong preference for craft beer from independently owned breweries." [[1](#citations)] 
+
+We see the growing taste for beer from small-scale craft breweries as a "consumer-based social movement." [[2](#citations)]
 
 Craft beer enthusiasts don't want to be fooled into drinking a "fake version of a product" [[3](#citations)] and there 
 is "strong interest for a seal to identify (that) a beer is from an independent brewery." [[1](#citations)]
