@@ -14,19 +14,22 @@
 <h3>Abstract</h3>
 </p>
 
-The rules governing access to beer taps in pubs, clubs and other venues are broken. 
 
-Major brewers use supply contracts that include exclusivity provisions and volume requirements to lock out craft 
-brewers. Some contracts require venues to dedicate over 80% of beer taps to their big name brands in exchange for 
-rebates, infrastructure investment and refurbishment loans. 
+The rules governing access to beer taps in pubs, clubs and other venues are broken.
 
-And some international conglomerates market their own craft-like beers. These beers, produced by giant corporations but
-marketed as independent brews, are known as 'crafty beers' due to their misleading labelling.
+Major brewers use supply contracts that include exclusivity provisions and volume requirements to lock out craft
+brewers. Some contracts require venues to dedicate over 80% of beer taps to their big name brands in exchange for
+rebates, infrastructure investment and refurbishment loans.
 
-Big brewers dominate the craft beer market, but craft beer drinkers "want to know who owns the beer they’re drinking" 
-and "there is a strong preference for craft beer from independently owned breweries." [[1](#citations)]
- 
-How do we stop craft breweries from being guzzled up by international conglomerates? 
+And large foreign-owned multinational conglomerates market their own craft-like beers seeking to co-opt craft breweries
+authenticity and craftiness. But craft beer drinkers "want to know who owns the beer they’re drinking" and "there is a
+strong preference for craft beer from independently owned breweries." [[1](#citations)] We see the growing taste for
+beer from small-scale craft breweries as a "consumer-based social movement." [[2](#citations)]
+
+Craft beer enthusiasts don't want to be fooled into drinking a "fake version of a product" [[3](#citations)] and there 
+is "strong interest for a seal to identify (that) a beer is from an independent brewery." [[1](#citations)]
+
+How do we stop craft breweries from being guzzled up by foreign-owned multinational corporations? 
 How do we stop misleading labelling and marketing? 
 What can we do to support craft brewers?
 
