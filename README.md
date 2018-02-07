@@ -40,7 +40,7 @@ and the second is the Brew platform that values and rewards users for their part
 - [Value Proposition](#value-proposition)
 - [Introduction](#introduction)
 - [A Better Deal](#a-new-deal)
-  - [Token Technology](#token-technology)
+  - [The Brew Token](#the-brew-token)
 
 ### Value Proposition
 
