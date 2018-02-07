@@ -72,19 +72,18 @@ craft beer ecosytem.
 ### A Better Deal
 
 To address the challenges faced by craft breweries requires a unit of exchange and a new platform. The first phase
-involves the introduction of the Brew Token. The next phase involves the development and roll-out of the Brew platform.
+involves the introduction of the Brew token. The next phase involves the development and roll-out of the Brew platform.
 
 #### The Brew Token
 
-The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. Ethereum is an open-source, 
-public, blockchain-based, distributed computing platform and operating system, featuring smart contract (scripting) 
-functionality. [[5](#citations)] 
+The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. 
+
+Ethereum is an open-source, public blockchain-based, distributed computing platform and operating system, featuring 
+smart contract functionality. The term Ethereum is often used interchangeably with Ether to refer to the cryptocurrency 
+that is generated on the Ethereum platform. [[5](#citations)] 
 
 Smart contracts are stateful applications stored in the Ethereum blockchain. They are cryptographically secure and can
 verify or enforce performance of the contract.
-
-
-
 
 
 ## Citations
