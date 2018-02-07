@@ -14,7 +14,6 @@
 <h3>Abstract</h3>
 </p>
 
-
 The rules governing access to beer taps in pubs, clubs and other venues are broken.
 
 Major brewers use supply contracts that include exclusivity provisions and volume requirements to lock out craft
@@ -75,15 +74,15 @@ craft beer ecosytem.
 To address the challenges faced by craft breweries requires a unit of exchange and a new platform. The first phase
 involves the introduction of the Brew Token. The next phase involves the development and roll-out of the Brew platform.
 
-#### Token Technology
+#### The Brew Token
 
-The Brew token, a token based on Ethereum, is an important element of a new digital community.
-Ethereum is an open source, blockchain-based, distributed computing platform oriented towards smart contracts.
+The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. Ethereum is an open-source, 
+public, blockchain-based, distributed computing platform and operating system, featuring smart contract (scripting) 
+functionality. [[5](#citations)] 
 
-Effectively, Ethereum is a distributed virtual machine that allows end users to construct smart contracts for
-transactions. Smart contracts are stateful applications stored in the Ethereum blockchain. These contracts are
-cryptographically secure and can verify or enforce performance of the contract. Token contracts are a standard feature
-of the Ethereum ecosystem.
+Smart contracts are stateful applications stored in the Ethereum blockchain. They are cryptographically secure and can
+verify or enforce performance of the contract.
+
 
 
 
@@ -95,3 +94,7 @@ of the Ethereum ecosystem.
 [2] [The Quest for Authenticity in Consumption](https://academic.oup.com/jcr/article-abstract/36/5/838/1790161?redirectedFrom=fulltext)
 
 [3] [Creating and retaining authenticity among craft breweries](https://open.bu.edu/handle/2144/15673)
+
+[4] [ERC20 Token Standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard)
+
+[5] [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
