@@ -82,10 +82,9 @@ Ethereum is an open-source, public blockchain-based, distributed computing platf
 smart contract functionality. [[5](#citations)] Smart contracts are stateful applications stored in the Ethereum 
 blockchain. They are cryptographically secure and can verify or enforce performance of the contract.
 
-Ethereum has been used to create markets, store registries of debts or promises, payment systems and crowd funding.
+Ethereum has been used for payment systems, registries of debts or promises, distributed exchanges and crowd funding.
 Big banks, tech giants, and other organisations have invested in and deployed Ethereum, including Accenture, 
 Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)] 
-
 
 
 
