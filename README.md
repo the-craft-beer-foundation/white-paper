@@ -76,14 +76,22 @@ involves the introduction of the Brew token. The next phase involves the develop
 
 #### The Brew Token
 
-The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. 
+The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. Ethereum is an open-source, 
+public blockchain-based, distributed computing platform and operating system, featuring smart contract 
+functionality. [[5](#citations)] 
 
-Ethereum is an open-source, public blockchain-based, distributed computing platform and operating system, featuring 
-smart contract functionality. The term Ethereum is often used interchangeably with Ether to refer to the cryptocurrency 
-that is generated on the Ethereum platform. [[5](#citations)] 
+**Note:** The term Ethereum is often used interchangeably with Ether to refer to the cryptocurrency 
+that is generated on the Ethereum platform.
 
 Smart contracts are stateful applications stored in the Ethereum blockchain. They are cryptographically secure and can
 verify or enforce performance of the contract.
+
+Ethereum has been used to create markets, store registries of debts or promises, payment systems and crowd funding.
+Big banks, tech giants, and other organisations have invested in and deployed Ethereum, including Accenture, 
+Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)] 
+
+
+
 
 
 ## Citations
@@ -97,3 +105,5 @@ verify or enforce performance of the contract.
 [4] [ERC20 Token Standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard)
 
 [5] [Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+
+[6] [Enterprise Ethereum Alliance](https://entethalliance.org/)
