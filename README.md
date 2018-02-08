@@ -78,14 +78,13 @@ involves the introduction of the Brew token. The next phase involves the develop
 
 The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. 
 
-Ethereum is an open-source, public blockchain-based, distributed computing platform and operating system, featuring 
+Ethereum is an open-source, public blockchain-based distributed computing platform and operating system, featuring 
 smart contract functionality. [[5](#citations)] Smart contracts are stateful applications stored in the Ethereum 
 blockchain. They are cryptographically secure and can verify or enforce performance of the contract.
 
 Ethereum has been used for payment systems, registries of debts or promises, distributed exchanges and crowd funding.
 Big banks, tech giants, and other organisations have invested in and deployed Ethereum, including Accenture, 
 Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)] 
-
 
 
 
