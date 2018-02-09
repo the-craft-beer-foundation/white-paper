@@ -86,7 +86,23 @@ Ethereum has been used for payment systems, registries of debts or promises, dis
 Big banks, tech giants, and other organisations have invested in and deployed Ethereum, including Accenture, 
 Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)] 
 
+#### Tokens Used as Payment to Craft Breweries
 
+All payments on the Brew platform will require a publisher endpoint.
+
+The recognition and reward system will calculate a score based on a fixed threshold value
+(based on purchases at a venue or event) and a bounded score (based on recommendations).
+
+A summary of user behavior is recorded in the Brew Ledger System and payments are made on the basis of the scores.
+
+A fully distributed ledger is desirable, both for public accountability and to address any scalability concerns.
+
+#### Tokens Used as Payment to Craft Beer Enthusiasts
+
+...
+
+Much of the development associated with the Brew App is presently code complete and is curently hosted on the Google 
+Cloud Platform.
 
 
 ## Citations
