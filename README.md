@@ -44,6 +44,7 @@ and the second is the Brew platform that values and rewards users for their part
   - [Tokens for User Applications](#tokens-for-user-applications)
   - [Tokens for Craft Breweries, Venues and Events](#tokens-for-craft-breweries-venues-and-vents)
   - [Roadmap](#roadmap)
+- [Business Landscape](#business-landscape)
     
 ### Value Proposition
 
