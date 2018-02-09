@@ -122,7 +122,7 @@ and payments system.
 
 - <strong>Beyond 1.0 Brew Platform:</strong> Brew wallet integrated with the Brew App.
 
-#### Business Landscape
+### Business Landscape
 
 ...
 
