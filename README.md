@@ -32,7 +32,7 @@ is "strong interest for a seal to identify (that) a beer is from an independent 
 Craft breweries are losing revenue, venues aren't capturing consumers attention and craft beer enthusiasts feel 
 increasingly misled. 
 
-The solution is a transparent and efficient Blockchain-based digital community. The first component is the Brew Token 
+The solution is a transparent and efficient Blockchain-based digital community. The first component is the Brew token 
 and the second is the Brew platform that values and rewards users for their participation in the craft beer ecosytem.
 
 ## Table of Contents
