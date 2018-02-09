@@ -42,7 +42,7 @@ and the second is the Brew platform that values and rewards users for their part
 - [A Better Deal](#a-new-deal)
   - [The Brew Token](#the-brew-token)
   - [Tokens for User Applications](#tokens-for-user-applications)
-  - [Tokens for Craft Breweries, Venues and Events](#the-brew-token)
+  - [Tokens for Craft Breweries, Venues and Events](#tokens-for-craft-breweries-venues-and-vents)
   
   ## Tokens Used as Payment to Craft Breweries, Venues and Events
 
