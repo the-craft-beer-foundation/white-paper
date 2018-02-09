@@ -92,9 +92,10 @@ Much of the development associated with the Brew App is presently code complete 
 
 The Brew platform's recognition and reward system will calculate a score based on a fixed threshold value 
 (based on purchases at a craft brewery, venue or event) and a bounded score 
-(based on recommendations).
+(based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores. 
 
-A summary of user behaviour will be recorded and payments made on the basis of scores. 
+**Note:** A fully distributed ledger is desirable, both for public accountability and to address any scalability 
+concerns. We may be able to leverage a third-party open source Ethereum micropayments system.
 
 Recommendations may be ranked or voted on using Brew tokens, similar to the “thumbsup/thumbsdown” on many commenting 
 system implementations. Comment votes backed by Brew tokens may be given more credibility due to the fact that someone
@@ -102,12 +103,9 @@ cared enough to back the comment with what would be a limited supply of token, a
 can be verified as coming from real people rather than robots. The right to post comments may also be purchased for 
 some minimal payment, to cut down on abusive commenters.
 
-**Note:** A fully distributed ledger is desirable, both for public accountability and to address any scalability 
-concerns. We may be able to leverage a third-party open source Ethereum micropayments system.
-
 #### Tokens Used as Payment to Craft Breweries, Venues and Events
 
-The recognition and reward system will calculate a score based on a fixed threshold value and a bounded score.
+The platform's recognition and reward system will calculate a score based on a fixed threshold value and a bounded score.
 
 A lottery system may be used, where small payments are made probabilistically, with payments happening essentially 
 in the same way that coin mining works with proof of participation instead of proof of work. [[7](#citations)]
