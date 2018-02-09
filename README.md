@@ -97,8 +97,6 @@ ully distributed ledger is desirable, both for public accountability and to addr
 
 #### Tokens Used as Payment to Craft Beer Enthusiasts
 
-...
-
 Much of the development associated with the Brew App is presently code complete and is curently hosted on the Google 
 Cloud Platform.
 
