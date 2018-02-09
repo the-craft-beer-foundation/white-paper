@@ -88,14 +88,12 @@ Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)]
 
 #### Tokens Used as Payment to Craft Breweries
 
-All payments on the Brew platform will require a publisher endpoint.
+The recognition and reward system will calculate a score based on a fixed threshold value 
+(based on purchases at a venue or event) and a bounded score 
+(based on recommendations).
 
-The recognition and reward system will calculate a score based on a fixed threshold value
-(based on purchases at a venue or event) and a bounded score (based on recommendations).
-
-A summary of user behavior is recorded in the Brew Ledger System and payments are made on the basis of the scores.
-
-A fully distributed ledger is desirable, both for public accountability and to address any scalability concerns.
+A summary of user behaviour will be recorded in the Brew Ledger System and payments made on the basis of scores. A f
+ully distributed ledger is desirable, both for public accountability and to address any scalability concerns.
 
 #### Tokens Used as Payment to Craft Beer Enthusiasts
 
