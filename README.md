@@ -115,12 +115,12 @@ in the same way that coin mining works with proof of participation instead of pr
 
 #### Roadmap
 
-- Pre 1.0 Brew Platform: Complete development of the Brew App, the Recognition and Reward system and the Brew Ledger 
+- <strong>Pre 1.0 Brew Platform:</strong> Complete development of the Brew App, the Recognition and Reward system and the Brew Ledger 
 and payments system.
 
-- 1.0 Brew Platform: Launch the Brew platform.
+- <strong>1.0 Brew Platform:</strong> Launch the Brew platform.
 
-- Beyond 1.0 Brew Platform: Brew wallet integrated with the Brew App.
+- <strong>Beyond 1.0 Brew Platform:</strong> Brew wallet integrated with the Brew App.
 
 #### Business Landscape
 
