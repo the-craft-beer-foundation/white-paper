@@ -41,6 +41,10 @@ and the second is the Brew platform that values and rewards users for their part
 - [Introduction](#introduction)
 - [A Better Deal](#a-new-deal)
   - [The Brew Token](#the-brew-token)
+  - [Tokens for User Applications](#tokens-for-user-applications)
+  - [Tokens for Craft Breweries, Venues and Events](#the-brew-token)
+  
+  ## Tokens Used as Payment to Craft Breweries, Venues and Events
 
 ### Value Proposition
 
@@ -103,13 +107,14 @@ cared enough to back the comment with what would be a limited supply of token, a
 can be verified as coming from real people rather than robots. The right to post comments may also be purchased for 
 some minimal payment, to cut down on abusive commenters.
 
-#### Tokens Used as Payment to Craft Breweries, Venues and Events
+#### Tokens for Craft Breweries, Venues and Events
 
 The platform's recognition and reward system will calculate a score based on a fixed threshold value and a bounded score.
 
 A lottery system may be used, where small payments are made probabilistically, with payments happening essentially 
 in the same way that coin mining works with proof of participation instead of proof of work. [[7](#citations)]
 
+### Roadmap
 
 
 
