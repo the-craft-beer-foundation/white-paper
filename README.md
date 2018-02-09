@@ -43,7 +43,8 @@ and the second is the Brew platform that values and rewards users for their part
   - [The Brew Token](#the-brew-token)
   - [Tokens for User Applications](#tokens-for-user-applications)
   - [Tokens for Craft Breweries, Venues and Events](#tokens-for-craft-breweries-venues-and-vents)
-  
+  - [Roadmap](#roadmap)
+    
 ### Value Proposition
 
 To many, blockchain is a new concept but to others blockchain is an enabler helping them to build communities and to
@@ -112,7 +113,19 @@ The platform's recognition and reward system will calculate a score based on a f
 A lottery system may be used, where small payments are made probabilistically, with payments happening essentially 
 in the same way that coin mining works with proof of participation instead of proof of work. [[7](#citations)]
 
-### Roadmap
+#### Roadmap
+
+- Pre 1.0 Brew Platform: Complete development of the Brew App, the Recognition and Reward system and the Brew Ledger 
+and payments system.
+
+- 1.0 Brew Platform: Launch the Brew platform.
+
+- Beyond 1.0 Brew Platform: Brew wallet integrated with the Brew App.
+
+#### Business Landscape
+
+...
+
 
 
 
