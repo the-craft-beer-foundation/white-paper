@@ -87,6 +87,10 @@ Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)]
 
 Much of the development associated with the Brew App is presently code complete and hosted on the Google Cloud Platform.
 
+<p align="center">
+  <img src="https://github.com/the-craft-beer-foundation/white-paper/search.png">
+</p>
+
 The Brew platform's recognition and reward system will calculate a score based on a fixed threshold value 
 (based on purchases at a craft brewery, venue or event) and a bounded score 
 (based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores. 
