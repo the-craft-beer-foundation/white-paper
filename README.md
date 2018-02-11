@@ -124,13 +124,8 @@ and Payments system.
 
 #### News Sites
 
-- [2017 Australian Craft Beer Survey Results](http://craftbeerreviewer.com/)
+- [Craft Beer Reviewer ](http://craftbeerreviewer.com/)
 
-
-
-
-
-http://craftbeerreviewer.com/the-brewery-list/
 
 
 
