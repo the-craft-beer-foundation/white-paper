@@ -118,12 +118,15 @@ and Payments system.
 
 ### The Australian Business Landscape
 
-#### News Sites
+#### News and Information
 
-- [Craft Beer Reviewer ](http://craftbeerreviewer.com/)
-
-
-
+- [Craft Beer Reviewer](http://craftbeerreviewer.com/)
+  - [The Brewery List](http://craftbeerreviewer.com/the-brewery-list/)
+  - [Who Owns The Brewery](http://craftbeerreviewer.com/corporate-craft-beer/)
+- [The Crafty Pint](https://craftypint.com/)
+- [Beer & Brewer](https://www.beerandbrewer.com/)
+- [Australian Brew News](https://www.brewsnews.com.au/)
+  - [Independent Brewing Industry National Economic Evaluation](http://iba.org.au/independent-brewing-industry-national-economic-evaluation/)
 
 
 
