@@ -124,7 +124,10 @@ the Brew Ledger and Payments system.
 
 #### Competition
 
-- [Untappd](https://untappd.com/)
+- [Untappd](https://untappd.com/) is a geosocial networking service and mobile phone application that allows its users
+to check into beers as they drink them, and share these check-ins and their locations with their friends.
+Untappd users can rate the beer they are consuming, earn badges, share pictures of their beers, review tap lists from 
+nearby venues, see what beers their friends are drinking, and suggests similar beverages.
 - [Now Tapped](https://nowtapped.com/)
 - [Beer Buddy](http://www.beerbuddyapp.com/)
 - [The Happiest Hour](https://www.thehappiesthour.com/)
