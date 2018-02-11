@@ -133,7 +133,7 @@ nearby venues, see what beers their friends are drinking, and suggests similar b
 barcodes from beer bottles, cans, and cases, to obtain vital information pertaining to that particular beer. 
 - [The Happiest Hour](https://www.thehappiesthour.com/) website provides information about your local 'Happy Hour' 
 deals, cheap drinks, food specials and Trivia Nights.
-- [Clipp](https://clipp.co/) is an App that provides mobile payments and last minute Bar & Restaurants deals.
+- [Clipp](https://clipp.co/) is a mobile phone application that provides mobile payments and last minute Bar & Restaurants deals.
 - [Foursquare](https://foursquare.com/) is a local search-and-discovery mobile app that helps find the perfect places 
 (e.g., best food, nightlife, and entertainment) to go with friends.
 - [Yelp](https://www.yelp.com/) publishes crowd-sourced reviews and recommendations about local businesses.
