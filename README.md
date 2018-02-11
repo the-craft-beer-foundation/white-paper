@@ -92,8 +92,8 @@ Much of the development associated with the Brew App is presently code complete.
 </p>
 
 The Brew platform's recognition and reward system will calculate a score based on a fixed threshold value 
-(based on purchases at a craft brewery, venue or event) and a bounded score 
-(based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores. 
+(e.g., based on purchases at a craft brewery, venue or event) and a bounded score 
+(e.g., based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores. 
 
 **Note:** A fully distributed ledger is desirable, both for public accountability and to address any scalability 
 concerns. We may be able to leverage a third-party open source Ethereum micropayments system.
@@ -113,8 +113,8 @@ in the same way that coin mining works with proof of participation instead of pr
 
 #### Roadmap
 
-- <strong>Pre 1.0 Brew Platform:</strong> Complete development of the Brew App, the Recognition and Reward system and the Brew Ledger 
-and Payments system.
+- <strong>Pre 1.0 Brew Platform:</strong> Complete development of the Brew App, the Recognition and Reward system and 
+the Brew Ledger and Payments system.
 
 - <strong>1.0 Brew Platform:</strong> Launch the Brew platform.
 
