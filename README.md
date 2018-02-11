@@ -128,9 +128,9 @@ the Brew Ledger and Payments system.
 to check into beers as they drink them, and share these check-ins and their locations with their friends.
 Untappd users can rate the beer they are consuming, earn badges, share pictures of their beers, review tap lists from 
 nearby venues, see what beers their friends are drinking, and suggests similar beverages.
-- [Now Tapped](https://nowtapped.com/) uses the Untappd API to provide to provide real time tap list updates.
-- [Beer Buddy](http://www.beerbuddyapp.com/) is an App that uses your device's camera to scan barcodes from beer 
-bottles, cans, and cases, to obtain vital information pertaining to that particular beer. 
+- [Now Tapped](https://nowtapped.com/) uses the Untappd API to provide real time tap list updates.
+- [Beer Buddy](http://www.beerbuddyapp.com/) is a mobile phone application that uses your device's camera to scan 
+barcodes from beer bottles, cans, and cases, to obtain vital information pertaining to that particular beer. 
 - [The Happiest Hour](https://www.thehappiesthour.com/) website provides information about your local 'Happy Hour' 
 deals, cheap drinks, food specials and Trivia Nights.
 - [Clipp](https://clipp.co/) is an App that provides mobile payments and last minute Bar & Restaurants deals.
