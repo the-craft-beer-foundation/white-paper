@@ -18,19 +18,16 @@ The rules governing access to beer taps in pubs, clubs and other venues are brok
 
 Major brewers use supply contracts that include exclusivity provisions and volume requirements to lock out craft
 brewers. Some contracts require venues to dedicate over 80% of beer taps to their big name brands in exchange for
-rebates, infrastructure investment and refurbishment loans.
+rebates, infrastructure investment and refurbishment loans. And large foreign-owned multinational corporations market 
+their own craft-like beers seeking to co-opt craft breweries authenticity and craftiness. 
 
-And large foreign-owned multinational corporations market their own craft-like beers seeking to co-opt craft breweries
-authenticity and craftiness. But craft beer drinkers "want to know who owns the beer they’re drinking" and "there is a
-strong preference for craft beer from independently owned breweries." [[1](#citations)] 
-
-We see the growing taste for beer from small-scale craft breweries as a "consumer-based social movement." [[2](#citations)]
-
-Craft beer enthusiasts don't want to be fooled into drinking a "fake version of a product" [[3](#citations)] and there 
-is "strong interest for a seal to identify (that) a beer is from an independent brewery." [[1](#citations)]
+But craft beer drinkers "want to know who owns the beer they’re drinking" and "there is a strong preference for craft 
+beer from independently owned breweries." [[1](#citations)] And craft beer enthusiasts don't want to be fooled into 
+drinking a "fake version of a product" [[2, 3](#citations)] and there is "strong interest for a seal to identify (that) 
+a beer is from an independent brewery." [[1](#citations)]
 
 Craft breweries are losing revenue, venues aren't capturing consumers attention and craft beer enthusiasts feel 
-increasingly misled. 
+increasingly misled.
 
 The solution is a transparent and efficient Blockchain-based digital community. The first component is the Brew token 
 and the second is the Brew platform that values and rewards users for their participation in the craft beer ecosytem.
@@ -123,9 +120,17 @@ and Payments system.
 
 - <strong>Beyond 1.0 Brew Platform:</strong> Brew wallet integrated with the Brew App.
 
-### Business Landscape
+### The Australian Business Landscape
 
-...
+#### News Sites
+
+- [2017 Australian Craft Beer Survey Results](http://craftbeerreviewer.com/)
+
+
+
+
+
+http://craftbeerreviewer.com/the-brewery-list/
 
 
 
