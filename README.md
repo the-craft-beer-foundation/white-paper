@@ -85,7 +85,7 @@ Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)]
 
 #### Tokens for User Applications
 
-Much of the development associated with the Brew App is presently code complete and hosted on the Google Cloud Platform.
+Much of the development associated with the Brew App is presently code complete.
 
 <p align="center">
   <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/search.png" width="50%">
