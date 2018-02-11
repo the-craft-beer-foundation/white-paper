@@ -122,6 +122,14 @@ the Brew Ledger and Payments system.
 
 ### The Australian Business Landscape
 
+#### Competition
+
+- [Untappd](https://untappd.com/)
+- [Now Tapped](https://nowtapped.com/)
+- [Beer Buddy](http://www.beerbuddyapp.com/)
+- [The Happiest Hour](https://www.thehappiesthour.com/)
+- [Clipp](https://clipp.co/)
+
 #### News and Information
 
 - [Craft Beer Reviewer](http://craftbeerreviewer.com/)
@@ -131,6 +139,8 @@ the Brew Ledger and Payments system.
 - [Beer & Brewer](https://www.beerandbrewer.com/)
 - [Australian Brew News](https://www.brewsnews.com.au/)
   - [Independent Brewing Industry National Economic Evaluation](http://iba.org.au/independent-brewing-industry-national-economic-evaluation/)
+
+
 
 
 
