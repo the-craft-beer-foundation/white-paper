@@ -1,8 +1,4 @@
 <p align="center">
--- DRAFT --
-</p>
-
-<p align="center">
   <h1>Brew Token</h1>
 </p>
 
