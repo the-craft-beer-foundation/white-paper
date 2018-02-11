@@ -129,14 +129,13 @@ to check into beers as they drink them, and share these check-ins and their loca
 Untappd users can rate the beer they are consuming, earn badges, share pictures of their beers, review tap lists from 
 nearby venues, see what beers their friends are drinking, and suggests similar beverages.
 - [Now Tapped](https://nowtapped.com/) uses the Untappd API to provide to provide real time tap list updates.
-- [Beer Buddy](http://www.beerbuddyapp.com/) is an App that uses your device's camera to scan barcodes (UPCs) from beer 
+- [Beer Buddy](http://www.beerbuddyapp.com/) is an App that uses your device's camera to scan barcodes from beer 
 bottles, cans, and cases, to obtain vital information pertaining to that particular beer. 
 - [The Happiest Hour](https://www.thehappiesthour.com/) website provides information about your local 'Happy Hour' 
 deals, cheap drinks, food specials and Trivia Nights.
 - [Clipp](https://clipp.co/) is an App that provides mobile payments and last minute Bar & Restaurants deals.
 - [Foursquare](https://foursquare.com/) is a local search-and-discovery mobile app that helps find the perfect places 
-(e.g., best food, nightlife, and entertainment) to go with friends. Discover the best food, nightlife, and 
-entertainment in your area.
+(e.g., best food, nightlife, and entertainment) to go with friends.
 - [Yelp](https://www.yelp.com/) publishes crowd-sourced reviews and recommendations about local businesses.
  
 #### News and Information
