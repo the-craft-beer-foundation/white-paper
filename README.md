@@ -83,6 +83,14 @@ Ethereum has been used for payment systems, registries of debts or promises, dis
 Big banks, tech giants, and other organisations have invested in and deployed Ethereum, including Accenture, 
 Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)] 
 
+The decision to introduce a new token instead of simply using Ether is for socioeconomical, not technical, reasons. 
+By creating a new token and making it the only valid payment option, we engineer socioeconomic effects that we believe 
+are significant enough to warrant the slight increase in complexity.
+
+**Note:** Ethereum is planning future protocol upgrades to allow transaction fees to be paid by arbitrary mechanisms, 
+including ERC20 tokens [[7, 8](#citations)]. This will remove most of the drawbacks of using a new token;
+there will be no difference in gas cost and users only need to acquire a single token.
+
 #### Tokens for User Applications
 
 Much of the development associated with the Brew App is presently code complete.
@@ -109,7 +117,7 @@ some minimal payment, to cut down on abusive commenters.
 The platform's recognition and reward system will calculate a score based on a fixed threshold value and a bounded score.
 
 A lottery system may be used, where small payments are made probabilistically, with payments happening essentially 
-in the same way that coin mining works with proof of participation instead of proof of work. [[7](#citations)]
+in the same way that coin mining works with proof of participation instead of proof of work. [[9](#citations)]
 
 #### Roadmap
 
@@ -167,5 +175,9 @@ deals, cheap drinks, food specials and Trivia Nights.
 
 [6] [Enterprise Ethereum Alliance](https://entethalliance.org/)
 
-[7] [Micropayments for Decentralized Currencies](https://eprint.iacr.org/2016/332.pdf)
+[7] [On Abstraction](https://blog.ethereum.org/2015/07/05/on-abstraction/)
+
+[8] [Understanding Serenity, Part I: Abstraction](https://blog.ethereum.org/2015/12/24/understanding-serenity-part-i-abstraction/)
+
+[9] [Micropayments for Decentralized Currencies](https://eprint.iacr.org/2016/332.pdf)
 
