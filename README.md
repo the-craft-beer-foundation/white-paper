@@ -75,9 +75,6 @@ involves the introduction of the Brew token. The next phase involves the develop
 
 The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. 
 
-The supply is fixed at 1 × 10^8 tokens where each token has 1 × 10^18 non-divisible subunits (the same divisibility 
-as Ether).
-
 Ethereum is an open-source, public blockchain-based distributed computing platform and operating system, featuring 
 smart contract functionality. [[5](#citations)] Smart contracts are stateful applications stored in the Ethereum 
 blockchain. They are cryptographically secure and can verify or enforce performance of the contract.
@@ -93,6 +90,9 @@ we believe are significant enough to warrant the slight increase in complexity.
 **Note:** Ethereum is planning future protocol upgrades to allow transaction fees to be paid by arbitrary mechanisms, 
 including ERC20 tokens [[7, 8](#citations)]. This will remove most of the drawbacks of using a new token;
 there will be no difference in gas cost and users will only need to acquire a single token.
+
+The supply is fixed at 1 × 10^8 tokens where each token has 1 × 10^18 non-divisible subunits (the same divisibility 
+as Ether).
 
 #### Tokens for User Applications
 
