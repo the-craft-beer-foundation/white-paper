@@ -96,12 +96,16 @@ there will be no difference in gas cost and users will only need to acquire a si
 Much of the development associated with the Brew App is presently code complete.
 
 <p align="center">
-  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/search.png" width="50%">
+  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/location.png" width="50%">
 </p>
 
 The Brew platform's recognition and reward system will calculate a score based on a fixed threshold value 
 (e.g., based on purchases at a craft brewery, venue or event) and a bounded score 
-(e.g., based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores. 
+(e.g., based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores.
+
+<p align="center">
+  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/search.png" width="50%">
+</p>
 
 **Note:** A fully distributed ledger is desirable, both for public accountability and to address any scalability 
 concerns. We may be able to leverage a third-party open source Ethereum micropayments system.
