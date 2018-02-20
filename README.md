@@ -92,7 +92,7 @@ as Ether).
 
 **Note:** Ethereum is planning future protocol upgrades to allow transaction fees to be paid by arbitrary mechanisms, 
 including ERC20 tokens [[7, 8](#citations)]. This will remove most of the drawbacks of using a new token;
-there will be no difference in gas cost and users will only need to acquire a single token.
+there will be no difference in gas cost and users will only need to acquire Brew tokens.
 
 #### Tokens for User Applications
 
