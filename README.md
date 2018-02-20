@@ -102,13 +102,17 @@ Much of the development associated with the Brew App is presently code complete.
   <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/location.png" width="50%">
 </p>
 
-The Brew platform's recognition and reward system will calculate a score based on a fixed threshold value 
-(e.g., based on purchases at a craft brewery, venue or event) and a bounded score 
-(e.g., based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores.
+We envisage that the Brew App will have significant value (without network effects [[9](#citations)]) for early adopters. 
+As the number of users increases, the platform will become even more valuable and attract a wider user base.
+And, that the rate of user adoption will increase as more users "hop on the bandwagon". [[10](#citations)]
 
 <p align="center">
   <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/search.png" width="50%">
 </p>
+
+The Brew platform's recognition and reward system will calculate a score based on a fixed threshold value 
+(e.g., based on purchases at a craft brewery, venue or event) and a bounded score 
+(e.g., based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores.
 
 **Note:** A fully distributed ledger is desirable, both for public accountability and to address any scalability 
 concerns. We may be able to leverage a third-party open source Ethereum micropayments system.
@@ -118,10 +122,6 @@ system implementations. Comment votes backed by Brew tokens may be given more cr
 cared enough to back the comment with what would be a limited supply of token, as well as the fact that a token transfer
 can be verified as coming from real people rather than robots. The right to post comments may also be purchased for 
 some minimal payment, to cut down on abusive commenters.
-
-We envisage that the Brew App will have significant value (without network effects [[9](#citations)]) for early adopters. 
-As the number of users increases, the platform will become even more valuable and attract a wider user base.
-And, that the rate of user adoption will increase as more users "hop on the bandwagon". [[10](#citations)
 
 #### Tokens for Craft Breweries, Venues and Events
 
