@@ -96,13 +96,14 @@ there will be no difference in gas cost and users will only need to acquire Brew
 
 #### Tokens for User Applications
 
-Much of the development associated with the Brew App is presently code complete.
+Much of the development associated with the Brew 
+[DApp](https://blockgeeks.com/guides/dapps/)(Decentralised Application) is presently code complete.
 
 <p align="center">
   <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/location.png" width="50%">
 </p>
 
-We envisage that the Brew App will have significant value (without network effects [[9](#citations)]) for early adopters. 
+We envisage that the Brew DApp will have significant value (without network effects [[9](#citations)]) for early adopters. 
 As the number of users increases, the platform will become even more valuable and attract a wider user base.
 And, the rate of user adoption will increase as more users "hop on the bandwagon". [[10](#citations)]
 
@@ -131,12 +132,12 @@ in the same way that coin mining works with proof of participation instead of pr
 
 #### Roadmap
 
-- <strong>Pre 1.0 Brew Platform:</strong> Complete development of the Brew App, the Recognition and Reward system and 
+- <strong>Pre 1.0 Brew Platform:</strong> Complete development of the Brew DApp, the Recognition and Reward system and 
 the Brew Ledger and Payments system.
 
 - <strong>1.0 Brew Platform:</strong> Launch the Brew platform.
 
-- <strong>Beyond 1.0 Brew Platform:</strong> Brew wallet integrated with the Brew App.
+- <strong>Beyond 1.0 Brew Platform:</strong> Brew wallet integrated with the Brew DApp.
 
 ### The Australian Business Landscape
 
