@@ -97,7 +97,7 @@ there will be no difference in gas cost and users will only need to acquire Brew
 #### Tokens for User Applications
 
 Much of the development associated with the Brew 
-[DApp](https://blockgeeks.com/guides/dapps/)(Decentralised Application) is presently code complete.
+[DApp](https://blockgeeks.com/guides/dapps/) (Decentralised Application) is presently code complete.
 
 <p align="center">
   <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/location.png" width="50%">
