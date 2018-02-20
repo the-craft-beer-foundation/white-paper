@@ -85,7 +85,7 @@ Credit Suisse, IBM, Intel, Microsoft, JP Morgan and UBS. [[6](#citations)]
 
 The decision to introduce a new token instead of simply using Ether is for socioeconomical, not technical, reasons. 
 By creating a new token and making it the platform's only valid payment option, we engineer socioeconomic effects that 
-we believe are significant enough to warrant the slight increase in complexity.
+we believe are significant enough to warrant the minor increase in complexity.
 
 The supply is fixed at 1 × 10^8 tokens where each token has 1 × 10^18 non-divisible subunits (the same divisibility 
 as Ether).
@@ -116,7 +116,8 @@ The Brew platform's recognition and reward system will calculate a score based o
 (e.g., based on recommendations). A summary of user behaviour will be recorded and payments made on the basis of scores.
 
 **Note:** A fully distributed ledger is desirable, both for public accountability and to address any scalability 
-concerns. We may be able to leverage a third-party open source Ethereum micropayments system.
+concerns. We may be able to leverage a third-party open source Ethereum micropayments system or a combination of 
+IPFS [[11](#citations)] and sidechains. [[12](#citations)]
 
 Recommendations may be ranked or voted on using Brew tokens, similar to the “thumbsup/thumbsdown” on many commenting 
 system implementations. Comment votes backed by Brew tokens may be given more credibility due to the fact that someone
@@ -128,7 +129,7 @@ can be verified as coming from real people rather than robots.
 The platform's recognition and reward system will calculate a score based on a fixed threshold value and a bounded score.
 
 A lottery system may be used, where small payments are made probabilistically, with payments happening essentially 
-in the same way that coin mining works with proof of participation instead of proof of work. [[11](#citations)]
+in the same way that coin mining works with proof of participation instead of proof of work. [[13](#citations)]
 
 #### Roadmap
 
@@ -194,4 +195,8 @@ deals, cheap drinks, food specials and Trivia Nights.
 
 [10] [Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect)
 
-[11] [Micropayments for Decentralized Currencies](https://eprint.iacr.org/2016/332.pdf)
+[11] [IPFS is the Distributed Web](https://github.com/ipfs/ipfs)
+
+[12] [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf)
+
+[13] [Micropayments for Decentralized Currencies](https://eprint.iacr.org/2016/332.pdf)
