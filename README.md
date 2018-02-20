@@ -87,12 +87,12 @@ The decision to introduce a new token instead of simply using Ether is for socio
 By creating a new token and making it the platform's only valid payment option, we engineer socioeconomic effects that 
 we believe are significant enough to warrant the slight increase in complexity.
 
+The supply is fixed at 1 × 10^8 tokens where each token has 1 × 10^18 non-divisible subunits (the same divisibility 
+as Ether).
+
 **Note:** Ethereum is planning future protocol upgrades to allow transaction fees to be paid by arbitrary mechanisms, 
 including ERC20 tokens [[7, 8](#citations)]. This will remove most of the drawbacks of using a new token;
 there will be no difference in gas cost and users will only need to acquire a single token.
-
-The supply is fixed at 1 × 10^8 tokens where each token has 1 × 10^18 non-divisible subunits (the same divisibility 
-as Ether).
 
 #### Tokens for User Applications
 
