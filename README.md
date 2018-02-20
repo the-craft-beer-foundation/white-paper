@@ -119,12 +119,16 @@ cared enough to back the comment with what would be a limited supply of token, a
 can be verified as coming from real people rather than robots. The right to post comments may also be purchased for 
 some minimal payment, to cut down on abusive commenters.
 
+We envisage that the Brew App will have significant value (without network effects [[9](#citations)]) for early adopters. 
+As the number of users increases, the platform will become even more valuable and attract a wider user base.
+And, that the rate of user adoption will increase as more users "hop on the bandwagon". [[10](#citations)
+
 #### Tokens for Craft Breweries, Venues and Events
 
 The platform's recognition and reward system will calculate a score based on a fixed threshold value and a bounded score.
 
 A lottery system may be used, where small payments are made probabilistically, with payments happening essentially 
-in the same way that coin mining works with proof of participation instead of proof of work. [[9](#citations)]
+in the same way that coin mining works with proof of participation instead of proof of work. [[11](#citations)]
 
 #### Roadmap
 
@@ -186,5 +190,8 @@ deals, cheap drinks, food specials and Trivia Nights.
 
 [8] [Understanding Serenity, Part I: Abstraction](https://blog.ethereum.org/2015/12/24/understanding-serenity-part-i-abstraction/)
 
-[9] [Micropayments for Decentralized Currencies](https://eprint.iacr.org/2016/332.pdf)
+[9] [Network effect](https://en.wikipedia.org/wiki/Network_effect)
 
+[10] [Bandwagon effect](https://en.wikipedia.org/wiki/Bandwagon_effect)
+
+[11] [Micropayments for Decentralized Currencies](https://eprint.iacr.org/2016/332.pdf)
