@@ -104,7 +104,7 @@ Much of the development associated with the Brew App is presently code complete.
 
 We envisage that the Brew App will have significant value (without network effects [[9](#citations)]) for early adopters. 
 As the number of users increases, the platform will become even more valuable and attract a wider user base.
-And, that the rate of user adoption will increase as more users "hop on the bandwagon". [[10](#citations)]
+And, the rate of user adoption will increase as more users "hop on the bandwagon". [[10](#citations)]
 
 <p align="center">
   <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/search.png" width="50%">
