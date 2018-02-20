@@ -120,8 +120,7 @@ concerns. We may be able to leverage a third-party open source Ethereum micropay
 Recommendations may be ranked or voted on using Brew tokens, similar to the “thumbsup/thumbsdown” on many commenting 
 system implementations. Comment votes backed by Brew tokens may be given more credibility due to the fact that someone
 cared enough to back the comment with what would be a limited supply of token, as well as the fact that a token transfer
-can be verified as coming from real people rather than robots. The right to post comments may also be purchased for 
-some minimal payment, to cut down on abusive commenters.
+can be verified as coming from real people rather than robots.
 
 #### Tokens for Craft Breweries, Venues and Events
 
