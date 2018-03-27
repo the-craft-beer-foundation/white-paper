@@ -100,7 +100,7 @@ Much of the development associated with the Brew
 [DApp](https://blockgeeks.com/guides/dapps/) (Decentralised Application) is presently code complete.
 
 <p align="center">
-  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/location.png" width="50%">
+  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/location-tab.png" width="50%">
 </p>
 
 We envisage that the Brew DApp will have significant value (without network effects [[9](#citations)]) for early adopters. 
@@ -108,7 +108,7 @@ As the number of users increases, the platform will become even more valuable an
 And, the rate of user adoption will increase as more users "hop on the bandwagon". [[10](#citations)]
 
 <p align="center">
-  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/search.png" width="50%">
+  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/search-tab.png" width="50%">
 </p>
 
 The Brew platform's recognition and reward system will calculate a score based on a fixed threshold value 
