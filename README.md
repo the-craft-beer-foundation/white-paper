@@ -73,7 +73,7 @@ involves the introduction of the Brew token. The next phase involves the develop
 
 #### The Brew Token
 
-The Brew token is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. 
+The Brew token (brewtoken.eth) is an ERC20 token [[4](#citations)] which will be traded on the Ethereum. 
 
 Ethereum is an open-source, public blockchain-based distributed computing platform and operating system, featuring 
 smart contract functionality. [[5](#citations)] Smart contracts are stateful applications stored in the Ethereum 
