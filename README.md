@@ -120,7 +120,13 @@ concerns. We may be able to leverage a third-party open source Ethereum micropay
 IPFS [[11](#citations)] and sidechains. [[12](#citations)]
 
 Recommendations may be ranked or voted on using Brew tokens, similar to the “thumbsup/thumbsdown” on many commenting 
-system implementations. Comment votes backed by Brew tokens may be given more credibility due to the fact that someone
+system implementations. 
+
+<p align="center">
+  <img src="https://github.com/the-craft-beer-foundation/white-paper/blob/master/take-a-photo.png" width="50%">
+</p>
+
+Comment votes backed by Brew tokens may be given more credibility due to the fact that someone
 cared enough to back the comment with what would be a limited supply of token, as well as the fact that a token transfer
 can be verified as coming from real people rather than robots.
 
